@@ -1,0 +1,29 @@
+{
+  "name": "Light Painting Stick",
+  "version": "1.0.0",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "improv": false,
+      "parts": [
+        {
+          "path": "firmware/LightPaintingStick.ino.bootloader.bin",
+          "offset": "0x0"
+        },
+        {
+          "path": "firmware/LightPaintingStick.ino.partitions.bin",
+          "offset": "0x8000"
+        },
+        {
+          "path": "firmware/boot_app0.bin",
+          "offset": "0xe000"
+        },
+        {
+          "path": "firmware/LightPaintingStick.ino.bin",
+          "offset": "0x10000"
+        }
+      ]
+    }
+  ]
+}
