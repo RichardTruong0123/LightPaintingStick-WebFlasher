@@ -1,6 +1,6 @@
 {
   "name": "Light Painting Stick",
-  "version": "1.0.0",
+  "version": "2.0.3",
   "new_install_prompt_erase": true,
   "builds": [
     {
