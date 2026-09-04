@@ -10,6 +10,12 @@ Flash the Light Painting Stick firmware directly from a supported web browser wi
 
 > **Recommended:** Use the latest desktop version of Google Chrome or Microsoft Edge with a USB data cable.
 
+## 💻 Source Code
+
+The complete Light Painting Stick firmware source code is available on GitHub.
+
+**[View the Light Painting Stick Source Code](https://github.com/RichardTruong0123/LightPaintingStick)**
+
 ## Supported Hardware
 
 - **Board:** Waveshare ESP32-S3-Touch-LCD-2
@@ -60,6 +66,10 @@ If the ESP32-S3 does not appear:
 ## Web Flasher
 
 **[Open Web Flasher →](https://richardtruong0123.github.io/LightPaintingStick-WebFlasher/)**
+
+## Source Code
+
+**[Open Source Code Repository →](https://github.com/RichardTruong0123/LightPaintingStick)**
 
 ---
 
