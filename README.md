@@ -1,4 +1,4 @@
-# Light Painting Stick
+# Light Painting Stick v2.0.3
 
 Browser-based firmware installer for the **Light Painting Stick** project.
 
